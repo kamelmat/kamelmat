@@ -10,7 +10,7 @@
 
 ## About me:
 
-## This is was me, and somehow it is still part of me👇🏼
+## This was me, and it is still part of me👇🏼
 >I specialize in bringing together the magic of music and art creation and production with the corporative business necessities applied to a constant evolving environment.
->I bring along with me over 20 years of experience in the professional world playing key roles both on the artistic and entrepreneurial sides of >the equation. I stand out by having a constant “out of the box” way of thinking and thrive as a pro-active passionate leader who nurtures the >best out of every crewmember. I am passionate about teaching and excel at sharing knowledge and transfer skills.
+I bring along with me over 20 years of experience in the professional world playing key roles both on the artistic and entrepreneurial sides of the equation. I stand out by having a constant “out of the box” way of thinking and thrive as a pro-active passionate leader who nurtures the best out of every crewmember. I am passionate about teaching and excel at sharing knowledge and transfer skills.
 
