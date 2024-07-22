@@ -37,7 +37,6 @@
 
 ## About me:
 
-## This was me, and it is still part of me👇🏼
 >Full Stack developer with over 5 years of experience in the music industry and management achieving excellence in integrating these skills within dynamic business environments. Bearer of an innovative mindset and proactive leadership key in fostering team excellence. Passionate about teaching and knowledge transfer, enhancing all the necessary technical and leadership abilities. A diverse background and creative approach that can significantly benefit your full-stack development team.
 
 ### EDUCATION:
