@@ -38,8 +38,7 @@
 ## About me:
 
 ## This was me, and it is still part of me👇🏼
->I specialize in bringing together the magic of music and art creation and production with the corporative business necessities applied to a constant evolving environment.
-I bring along with me over 20 years of experience in the professional world playing key roles both on the artistic and entrepreneurial sides of the equation. I stand out by having a constant “out of the box” way of thinking and thrive as a pro-active passionate leader who nurtures the best out of every crewmember. I am passionate about teaching and excel at sharing knowledge and transfer skills.
+>Full Stack developer with over 5 years of experience in the music industry and management achieving excellence in integrating these skills within dynamic business environments. Bearer of an innovative mindset and proactive leadership key in fostering team excellence. Passionate about teaching and knowledge transfer, enhancing all the necessary technical and leadership abilities. A diverse background and creative approach that can significantly benefit your full-stack development team.
 
 ### EDUCATION:
 - 1998 - 2001: Professional Music, Escuela de música contemporánea from Berklee College of Music. Buenos Aires, Argentina.
