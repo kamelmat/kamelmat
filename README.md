@@ -41,11 +41,15 @@
 >Full Stack developer with over 5 years of experience in the music industry and management achieving excellence in integrating these skills within dynamic business environments. Bearer of an innovative mindset and proactive leadership key in fostering team excellence. Passionate about teaching and knowledge transfer, enhancing all the necessary technical and leadership abilities. A diverse background and creative approach that can significantly benefit your full-stack development team.
 
 ### EDUCATION:
+- 2204 Full Stack Developer at 4Geeks Academy
+- 2020: Music Coaching Masters degree at Escneca Business School
+- 2019: Music Therapy Masters degree at Esneca Business School
+- 2000: Practitioner NLP (Neuro Linguistic programing)
 - 1998 - 2001: Professional Music, Escuela de música contemporánea from Berklee College of Music. Buenos Aires, Argentina.
 - 1993 - 1999: Profesor de piano y música. Conservatorio Juan José Castro, Buenos Aires – Argentina.
-- 2000: Practitioner NLP (Neuro Linguistic programing)
-- 2019: Music Therapy Masters degree at Esneca Business School
-- 2020: Music Coaching Masters degree at Escneca Business School
+
+
+
 
 ## LANGUAGES:
 - Spanish – Native 
