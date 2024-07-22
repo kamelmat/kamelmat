@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Matias Kamelman and I'm a Full Stack Dev in progress, from ... well. the world actually</h2>
+<h2 align="left">Hi 👋! My name is Matias Kamelman and I'm a Full Stack Developer, from ... well. the world actually</h2>
 
 ###
 
