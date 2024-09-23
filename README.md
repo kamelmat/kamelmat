@@ -1,61 +1,79 @@
-<h2 align="left">Hi 👋! My name is Matias Kamelman and I'm a Full Stack Developer, from ... well. the world actually</h2>
+<h2 align="center">Hi there 👋, I'm Matias Kamelman!</h2>
+<h3 align="center">A passionate Full Stack Developer with a love for Star Wars, Music, and Technology</h3>
 
-###
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2020/03/12/23/15/coding-4920852_960_720.jpg" alt="coding background" width="100%"/>
+</p>
 
-<img align="right" height="150" src="https://www.visionnaire.com.br/en/dbimages/visionnaire-blog-star-wars-programming-yoda1_16492_img.jpg"  />
+---
 
-###
+<img align="right" height="200" src="https://i.imgur.com/Nx8z9QD.jpg" alt="Star Wars Tech Jedi"/>
 
+### 🚀 About Me:
+- Full Stack Developer with experience in **JavaScript, React, Python, SQL** and more.
+- Background in the **music industry** and **management**, excelling in **team collaboration**, **problem-solving**, and **adaptation** in dynamic environments.
+- Passionate about learning, technology, and building innovative solutions to complex problems.
+- Always ready to take on new challenges, with a quick learning ability and a **proactive leadership** mindset.
+
+---
+
+### 🛠 Technical Skills:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height="30" alt="css3 logo"  />
-  <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="30" alt="css3 logo"  />
-  <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" height="30" alt="css3 logo"  />
-  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
+</div>
 
+---
 
-###
-
+### 📫 How to reach me:
 <div align="left">
-  <a href="https://www.youtube.com/kamelmat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="mailto:kamelmat@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/matias-kamelman/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/matiaskamelman/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
   </a>
-  <a href="kamelmat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/matias-kamelman-42700721/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/kamelmat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube" />
   </a>
 </div>
 
+---
 
+### 📚 Education:
+- **2024**: Full Stack Developer, **4Geeks Academy**, Spain
+- **1998 - 2001**: Professional Music, **Berklee College of Music**, Buenos Aires, Argentina
 
-## About me:
+---
 
->Full Stack developer with over 5 years of experience in the music industry and management achieving excellence in integrating these skills within dynamic business environments. Bearer of an innovative mindset and proactive leadership key in fostering team excellence. Passionate about teaching and knowledge transfer, enhancing all the necessary technical and leadership abilities. A diverse background and creative approach that can significantly benefit your full-stack development team.
+### 🌍 Languages:
+- Spanish – Native
+- English – Native
+- Catalan – Fluent
+- Portuguese – Fluent
+- Italian – Fluent
+- German – Basic
 
-### EDUCATION:
-- 2204 Full Stack Developer at 4Geeks Academy
-- 2020: Music Coaching Masters degree at Escneca Business School
-- 2019: Music Therapy Masters degree at Esneca Business School
-- 2000: Practitioner NLP (Neuro Linguistic programing)
-- 1998 - 2001: Professional Music, Escuela de música contemporánea from Berklee College of Music. Buenos Aires, Argentina.
-- 1993 - 1999: Profesor de piano y música. Conservatorio Juan José Castro, Buenos Aires – Argentina.
+---
 
+### 🧑‍💻 Currently working on:
+- A brainwave entrainment app, **Binaurapp**, improving focus and relaxation using advanced audio technology.
+- Building innovative solutions through **React**, **JavaScript**, and **Python**.
 
+---
 
+### ⚡ Fun fact:
+When I’m not coding, you’ll find me playing music or binge-watching Star Wars! 
 
-## LANGUAGES:
-- Spanish – Native 
-- English – Native 
-- Catalan – Fluent 
-- Portuguese – Fluent 
-- Italian – Fluent 
-- Hebrew – fluent 
-- German - Basic
-
+---
