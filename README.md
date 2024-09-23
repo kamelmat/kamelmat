@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Full Stack Developer with a love for Star Wars, Music, and Technology</h3>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/03/12/23/15/coding-4920852_960_720.jpg" alt="coding background" width="100%"/>
+  <img src="https://wallpaperaccess.com/full/2217135.jpg" alt="coding background" width="100%"/>
 </p>
 
 ---
 
-<img align="right" height="200" src="https://i.imgur.com/Nx8z9QD.jpg" alt="Star Wars Tech Jedi"/>
+<img align="right" height="200" src="https://i.imgur.com/hqmkzvA.png" alt="Star Wars Tech Jedi"/>
 
 ### 🚀 About Me:
 - Full Stack Developer with experience in **JavaScript, React, Python, SQL** and more.
