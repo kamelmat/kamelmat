@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer with a love for Star Wars, Music, and Technology</h3>
 
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/2217135.jpg" alt="coding background" width="100%"/>
+  <img src="Leonardo_Phoenix_A_futuristic_Background_for_my_github_page_Ma_1.jpg" alt="coding background" width="100%"/>
 </p>
 
 ---
