@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" height="200" src="https://i.imgur.com/hqmkzvA.png" alt="Star Wars Tech Jedi"/>
+<img align="right" height="200" src="Leonardo_Phoenix_A_futuristic_Background_for_my_github_page_Ma_1.jpg" alt="Star Wars Tech Jedi"/>
 
 ### 🚀 About Me:
 - Full Stack Developer with experience in **JavaScript, React, Python, SQL** and more.
