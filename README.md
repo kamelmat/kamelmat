@@ -47,6 +47,10 @@
   <a href="https://www.youtube.com/kamelmat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube" />
   </a>
+  <a href="www.matiaskamelman.com" target="_blank">
+    <img src="![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)" height="35" alt="personal web" />  
+  </a>
+
 </div>
 
 ---
